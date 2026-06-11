@@ -113,6 +113,13 @@ OrangeHRM-Manual-Testing-Project
 
 ---
 
+## Defect Tracking
+
+Jira was used to manage and track defects throughout the testing lifecycle.
+
+Project Board:
+https://piyushb6263.atlassian.net/jira/software/projects/OR/boards/35?atlOrigin=eyJpIjoiOWYzOGRjMTgyMmQ1NGEzN2FlZTNhNWQ5NGIwYjgzMjkiLCJwIjoiaiJ9
+
 ### Author
 
 Piyush Bhagchandani
